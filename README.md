@@ -16,11 +16,11 @@ This repository documents the architecture, workflow, and hardware setup.
 It also links to the three main software components that make the system work.
 Some of the work is proprietary and not available inside this repository. 
 
-The full project documentation and analysis is available [Coverage of LoRa Gateways, Transcievers, Antennas in Darmstadt](doc\LoRa-coverage.pdf)
+The full project documentation and analysis is available [Coverage of LoRa Gateways, Transcievers, Antennas in Darmstadt](doc/LoRa-coverage.pdf)
 
 Watch the [LoRa Demo Video](https://youtu.be/3jSFXA11Auo)
 
-![LoRa_Heatmap](doc\gfx\range.jpg)
+![LoRa_Heatmap](doc/gfx/range.jpg)
 
 ---
 
@@ -185,7 +185,7 @@ Distribution of our measurements by signal strength, distance and packets.
 ![2D Density Heatmap](doc/gfx/measurements.png)
 
 
-The complete evaluation (with maps and zone tables) is included in the the [Documentation](doc\LoRa-coverage.pdf).
+The complete evaluation (with maps and zone tables) is included in the the [Documentation](doc/LoRa-coverage.pdf).
 
 ---
 
