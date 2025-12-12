@@ -1,0 +1,11 @@
+secrets.py
+.venv/
+django_react_proj
+__pycache__
+logging/*
+venv
+manjaroenv
+manjarovenv
+windowsenv
+laptop
+laptopenv

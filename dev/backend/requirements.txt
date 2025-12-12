@@ -1,0 +1,12 @@
+asyncio==3.4.3
+asyncio-mqtt==0.12.1
+autobahn==22.5.1
+cffi==1.15.0
+cryptography==37.0.2
+geographiclib==1.52
+geopy==2.2.0
+hyperlink==21.0.0
+idna==3.3
+paho-mqtt==1.6.1
+pycparser==2.21
+txaio==22.2.1
